@@ -11,7 +11,7 @@ O sistema permite inserir informações básicas do cliente através de um formu
 - Cadastro de email
 - Seleção de país
 - Confirmação dos dados preenchidos
-- 
+  
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
